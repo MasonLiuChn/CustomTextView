@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="customTextView"><attr format="color" name="textSolidColor"/><attr format="color" name="textStrokeColor"/><attr format="dimension" name="textRadius"/><attr format="dimension" name="textLeftTopRadius"/><attr format="dimension" name="textLeftBottomRadius"/><attr format="dimension" name="textRightTopRadius"/><attr format="dimension" name="textRightBottomRadius"/><attr format="dimension" name="textStrokeWidth"/><attr format="reference" name="textDrawable"/><attr format="color" name="textNormalTextColor"/><attr format="color" name="textSelectedTextColor"/></declare-styleable>
+    <string name="app_name">Library</string>
+</resources>

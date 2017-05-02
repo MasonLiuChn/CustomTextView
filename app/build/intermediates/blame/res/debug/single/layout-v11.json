@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Project\\AS_MY\\CustomTextView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\liumeng02\\.android\\build-cache\\0ff37439db41954b4c74da328bbc0627324018e9\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Project\\AS_MY\\CustomTextView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\liumeng02\\.android\\build-cache\\0ff37439db41954b4c74da328bbc0627324018e9\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Project\\AS_MY\\CustomTextView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\liumeng02\\.android\\build-cache\\0ff37439db41954b4c74da328bbc0627324018e9\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Project\\AS_MY\\CustomTextView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\liumeng02\\.android\\build-cache\\0ff37439db41954b4c74da328bbc0627324018e9\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Project\\AS_MY\\CustomTextView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\liumeng02\\.android\\build-cache\\0ff37439db41954b4c74da328bbc0627324018e9\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Project\\AS_MY\\CustomTextView\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\liumeng02\\.android\\build-cache\\0ff37439db41954b4c74da328bbc0627324018e9\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]
