@@ -2,6 +2,16 @@
 
 自定义TextView 实现填充色、圆角、文字变色、边框、边框颜色、背景图等功能，再也不用写一大堆shape这样xml了。
 
+
+maven {
+            url "https://jitpack.io"
+        }
+        
+compile 'com.github.MasonLiuChn:CustomTextView:1.0.1'
+
+做TagView用。
+
+
 ## 效果
 
 <img src="https://github.com/jiaowenzheng/CustomTextView/raw/master/pic.png" width="450" height="800"/>  
