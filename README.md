@@ -1,4 +1,6 @@
-# CustomTextView
+#做 TagView  和 做 button
+
+做TagView用。
 
 自定义TextView 实现填充色、圆角、文字变色、边框、边框颜色、背景图等功能，再也不用写一大堆shape这样xml了。
 
@@ -9,7 +11,7 @@ maven {
         
 compile 'com.github.MasonLiuChn:CustomTextView:1.0.1'
 
-做TagView用。
+
 
 
 ## 效果
